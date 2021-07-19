@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-fakelocation",
+  "version": "0.0.1",
+  "description": "Checks if allow mock locations are enabled",
+  "cordova": {
+    "id": "cordova-plugin-fakelocation",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaara64bit/cordova-plugin-fakelocation.git"
+  },
+  "keywords": [
+    "cordova", "ionic", "test-locations", "fake-locations", "mock-locations", "android"
+  ],
+  "author": "tomloprod",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaara64bit/cordova-plugin-fakelocation/issues"
+  },
+  "homepage": "https://github.com/gaara64bit/cordova-plugin-fakelocation#readme"
+}
